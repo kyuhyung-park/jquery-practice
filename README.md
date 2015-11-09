@@ -3,7 +3,7 @@
 ## jQuery
 - http://jquery.com/
 - cdn
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+`  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>`
 
 ## jQueryui datepicker
 - http://jqueryui.com/
