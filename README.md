@@ -14,8 +14,8 @@
 <link rel="stylesheet" href="jquery-ui-1.11.4.custom/jquery-ui.css" type="text/css" />
 <script src="jquery-ui-1.11.4.custom/jquery-ui.js"></script>
 <script>
-$("#cal1").datepicker({
-  dateFormat: 'yy-mm-dd'
-});
+  $("#cal1").datepicker({
+    dateFormat: 'yy-mm-dd'
+  });
 </script>
 ```
