@@ -5,6 +5,7 @@
 - cdn
 
 `  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>`
+- video : https://youtu.be/YAzi-kPwPRk
 
 ## jQueryui datepicker
 - http://jqueryui.com/
